@@ -44,10 +44,10 @@ The idea here is to use the information of the sum of point by every year to for
 
 # Requirements
 
-numpy==1.22.3
-pandas==1.4.2
-pmdarima==1.8.5
-statsmodels==0.13.2
+numpy==1.22.3 <br />
+pandas==1.4.2 <br />
+pmdarima==1.8.5 <br />
+statsmodels==0.13.2 <br />
 
 # Other
 
