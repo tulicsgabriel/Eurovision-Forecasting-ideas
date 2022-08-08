@@ -51,7 +51,7 @@ statsmodels==0.13.2 <br />
 
 # Other
 
-The code snippets in the Notebook are for brainstorming purposes, the methods have not been validated or evaluated. Measurements of the accuracy of the methods are still needed. This is a hobby project, consider it a hobby project. 
+The code snippets in the Notebook are for brainstorming purposes, the methods have not been validated or evaluated. Measurements of the accuracy of the methods are still needed. This is a hobby project, consider it as such. 
 
 Please feel free to share opinions, comments and/or other ideas.
 
